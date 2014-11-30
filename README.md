@@ -1,8 +1,7 @@
 AmazonEMRPoc
 ============
 
-Thie is POC to create EMR cluster and insert jobs
-This sample command line application demonstrates how to create Amazon
+Its a sample command line application demonstrates how to create Amazon
 EMR cluster and insert jobs using the Amazon AWS client library.
 
 [1]: https://developers.google.com/compute
